@@ -1,0 +1,1 @@
+screen -amdS cloudflare-ddns python3 run.py

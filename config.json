@@ -1,0 +1,22 @@
+{
+  "ip": "127.0.0.1",
+  "sleep_time": 1,
+  "cloudflare_email": "",
+  "cloudflare_api_key": "",
+  "urls": [
+    {
+      "name": "example.com",
+      "zone_id": null,
+      "dns_records": [
+        {
+          "name": "sub1",
+          "id": null
+        },
+        {
+          "name": "sub2",
+          "id": null
+        }
+      ]
+    }
+  ]
+}
