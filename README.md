@@ -1,7 +1,8 @@
 # CloudFlare DynDNS
 
 Use CloudFlare as DynDNS Provider for accessing your home network!
-
+<br><br>
+All Requests used in this script: <https://documenter.getpostman.com/view/23067618/2s9YJbzMzN>
 
 ## Prerequisites
 
